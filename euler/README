@@ -1,0 +1,33 @@
+Here are a bunch of throwaway scripts to work on the Project Euler problems. I could probably write better code in a lot of cases, but these were just meant to solve quick, one-off problems.
+
+Note the progression over time in terms of languages and code structure, etc.
+
+
+20070615 - 001  perl              very easy
+20070615 - 006  perl              very easy
+20070615 - 002  perl              easy
+20070615 - 005  calculator        easy
+20070615 - 007  perl              easy-medium
+20070615 - 009  perl              easy
+20070615 - 008  visual inspection easy
+20070615 - 004  perl bf           easy 
+20070615 - 011  visual inspection easy 
+20070615 - 028  perl              easy 
+20070615 - 015  discrete math     easy
+20070616 - 054  perl              old program (would have been time-consuming)
+20070616 - 018  perl              easy
+20070616 - 067  perl              easy
+20070616 - 020  perl              very easy
+20070616 - 013  perl              very easy
+20070616 - 022  xemacs sort, perl very easy
+20070617 - 048  perl              easy after bigints, slow though
+20070617 - 014  perl              easy
+20070618 - 024  perl              easy
+20070618 - 158  perl              very easy
+20070622 - 025  perl
+20070803 - 017  perl
+20071222 - 030  ruby
+20080411 - 010  perl, ruby
+20080411 - 031  ruby
+20080413 - 042  ruby
+20080512 - 012  ruby
